@@ -6,9 +6,9 @@ import numpy as np
 import psycopg2
 # Fetch variables
 USER = "db.qzwspxajgjywkwudmudc.supabase.co" #os.getenv("user")
-PASSWORD = "5432"# os.getenv("password")
-HOST = "postgres" #os.getenv("host")
-PORT = "postgres" #os.getenv("port")
+PASSWORD = "MF$a.081204."# os.getenv("password")
+HOST = "db.qzwspxajgjywkwudmudc.supabase.co" #os.getenv("host")
+PORT = "5432" #os.getenv("port")
 DBNAME = "postgres" #os.getenv("dbname")
 
 # Configuración de la página
